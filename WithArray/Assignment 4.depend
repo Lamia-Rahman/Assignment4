@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545677003 source:c:\users\hp\desktop\assignment 4\selectionsort.cpp
+	"SelectionSort.h"
+	<iostream>
+
+1545676924 c:\users\hp\desktop\assignment 4\selectionsort.h
+
+1545677248 source:c:\users\hp\desktop\assignment 4\main.cpp
+	<iostream>
+	"SelectionSort.cpp"
+
+1545678467 c:\users\hp\desktop\assignment 4\selectionsort.cpp
+	"SelectionSort.h"
+	<iostream>
+
